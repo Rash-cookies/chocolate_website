@@ -1,0 +1,17 @@
+c:\users\rashmi\documents\visual studio 2012\Projects\WebApplication1\WebApplication1\bin\WebApplication1.dll
+c:\users\rashmi\documents\visual studio 2012\Projects\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+c:\users\rashmi\documents\visual studio 2012\Projects\WebApplication1\WebApplication1\obj\Debug\Mychocolatewebsite.csprojResolveAssemblyReference.cache
+c:\users\rashmi\documents\visual studio 2012\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+c:\users\rashmi\documents\visual studio 2012\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Rashmi\OneDrive\Documents\Visual Studio 2012\Projects\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\Rashmi\OneDrive\Documents\Visual Studio 2012\Projects\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Rashmi\OneDrive\Documents\Visual Studio 2012\Projects\WebApplication1\WebApplication1\obj\Debug\Mychocolatewebsite.csprojResolveAssemblyReference.cache
+C:\Users\Rashmi\OneDrive\Documents\Visual Studio 2012\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Rashmi\OneDrive\Documents\Visual Studio 2012\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\Rashmi\Mychocolatewebsite\Projects\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+D:\Rashmi\Mychocolatewebsite\Projects\WebApplication1\WebApplication1\bin\WebApplication1.dll
+D:\Rashmi\Mychocolatewebsite\Projects\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+D:\Rashmi\Mychocolatewebsite\Projects\WebApplication1\WebApplication1\obj\Debug\Mychocolatewebsite.csprojAssemblyReference.cache
+D:\Rashmi\Mychocolatewebsite\Projects\WebApplication1\WebApplication1\obj\Debug\Mychocolatewebsite.csproj.CoreCompileInputs.cache
+D:\Rashmi\Mychocolatewebsite\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+D:\Rashmi\Mychocolatewebsite\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
